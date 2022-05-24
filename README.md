@@ -1,6 +1,6 @@
 # Introduction
 
-This document was created for the ICA 2022 Hackathon tutorial "Exploring Google Takeout's Search History as a Data Source." 
+This document was created for the ICA 2022 Hackathon tutorial "Exploring Google Takeout's Search History as a Data Source."
 
 The motivation for this tutorial is as follows: The vast majority of people who use the Internet use search to find information and resources. Search queries and the resulting page visits, combined with self-reported information about a topic of interest (e.g. politics, content creation, sales funnel, fandom), are an under-explored and potentially rich source of behavioral information that could be used in social science research of many types. Google's 'Takeout' service allows users to download their own data, including all of the search terms they have used and the resulting web pages they have visited from any device logged into Google.
 
