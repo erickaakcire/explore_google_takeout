@@ -1,7 +1,8 @@
 # Introduction
 
 This document was originally created for the ICA 2022 Hackathon tutorial "Exploring Google 
-Takeout's Search History as a Data Source."
+Takeout's Search History as a Data Source." If you are using or adapting it for your class 
+or your research I would like to know. Please email menchent at american dot edu.
 
 The motivation for this tutorial is as follows: The vast majority of people who use the Internet 
 use search to find information and resources. Search queries and the resulting page visits, 
